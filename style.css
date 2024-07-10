@@ -1,0 +1,32 @@
+.section1{background-color: aliceblue;text-align: center;}
+
+
+h1{color:black;}
+h1{text-align: center;}
+h1{font-family: "Anton SC", sans-serif;}
+img{width: 300px;}
+img{border-radius: 100px;}
+h2{text-align: center;}
+h2{font-size:30px;}
+h2{  font-family: "Dosis", sans-serif;}
+
+h3{background-color:rgb(15, 125, 105);height: 60px;}
+h3{text-align: center;}
+h3{font-size: 30px;}
+h3{color: aliceblue;}
+h3{  font-family: "Open Sans", sans-serif;}
+button{width: 150px;height: 30px;}
+button{background-color:rgb(107, 107, 1);}
+button{border-radius: 15px;}
+button{border:none}
+button{color: aliceblue;}
+button{box-shadow: 0 0 5px cyan, 0 0 25px cyan;}
+button:hover{box-shadow: 0 0 5px cyan,0 0 25px cyan, 0 0 50px cyan
+    0 0 100px cyan, 0 0 200px cyan,;}
+p{color: aliceblue;}
+body {
+    background-image: url(./bg.jpg);
+background-position: bottom;
+background-repeat: no-repeat;
+background-size: cover;
+}
